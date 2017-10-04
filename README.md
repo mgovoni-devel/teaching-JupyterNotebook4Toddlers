@@ -1,4 +1,4 @@
-# teaching-JupyterNotebooks4Toddlers
+# teaching-JupyterNotebook4Toddlers
 Teaching Material 
 
 The notebook shows core functionalities of a Jupyter Notebook (http://jupyter.org/).
