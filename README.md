@@ -1,7 +1,7 @@
 # teaching-JupyterNotebooks4Toddlers
 Teaching Material 
 
-The notebook shows core functionalities of Jupyter Notebooks.
+The notebook shows core functionalities of a Jupyter Notebook (http://jupyter.org/).
 
 Requirements: 
 - Python 3
