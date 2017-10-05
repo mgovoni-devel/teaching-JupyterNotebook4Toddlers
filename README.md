@@ -10,7 +10,7 @@ The notebook shows core functionalities of a Jupyter Notebook (http://jupyter.or
 - Matplotlib 
 - Json 
 
-### How to run the notebook? 
+### Run the notebook
 ```sh
 $ jupyter-notebook intro.ipynb
 ```
