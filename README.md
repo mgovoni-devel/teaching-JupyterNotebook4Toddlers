@@ -3,12 +3,14 @@ Teaching Material
 
 The notebook shows core functionalities of a Jupyter Notebook (http://jupyter.org/).
 
-Requirements: 
+### Dependencies 
 - Python 3
 - Jupyter Notebook
 - Numpy
 - Matplotlib 
 - Json 
 
-How to run the notebook? 
-- <code>jupyter-notebook intro.ipynb</code>
+### Run the notebook
+```sh
+$ jupyter-notebook intro.ipynb
+```
