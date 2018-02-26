@@ -1,8 +1,8 @@
 # Introduction to Jupyter Notebooks
 Teaching Material 
 
-The notebook shows core functionalities of a Jupyter Notebook (http://jupyter.org/).
-Few basic commands of Python are reviewed. 
+The notebook shows core functionalities of a Jupyter Notebook (http://jupyter.org/). <br>
+Few basic Python commands are reviewed. 
 
 ### Dependencies 
 - Python 3
